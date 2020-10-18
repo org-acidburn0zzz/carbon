@@ -17,7 +17,7 @@
     "preinstall": "node ./node_modules/use-climate-change-reminder/index.js || exit 0"
   },
   "dependencies": {
-    "@next/bundle-analyzer": "^9.5.0",
+    "@next/bundle-analyzer": "^9.5.3",
     "@reach/visually-hidden": "^0.10.4",
     "acorn": "^7.3.1",
     "actionsack": "^0.0.13",
